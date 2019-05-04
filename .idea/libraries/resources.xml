@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../GUI Database/resources/mysql-connector-java-5.1.46/src" />
+      <root url="file://$PROJECT_DIR$/../GUI Database/resources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../GUI Database/resources" recursive="false" type="SOURCES" />
+  </library>
+</component>
